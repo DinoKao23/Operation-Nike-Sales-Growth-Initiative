@@ -87,12 +87,32 @@ Identify ALL relevant data activities from the Data Periodic Table
 - F28. Improved data team skills
 - F29. Stronger analytics community
 - F30. More knowledgeable data community
-Data Mining Success Criteria
+### Data Mining Success Criteria
+- Enhanced Data Collection and Quality: Improvement in the collection methods leading to higher quality and accuracy of customer data.
+- Effective Use of Both Structured and Unstructured Data: Leveraging a mix of structured and unstructured data to gain comprehensive insights into consumer behaviors and preferences.
+- Increased Understanding of Customers: Gaining deep insights into customer needs, behaviors, and preferences to inform marketing and product strategies.
+- Improved Modeling Accuracy: Enhanced accuracy in predictive models to forecast consumer trends and product performance accurately.
+- Reduced Modeling Development Time: Efficiency in developing and deploying models, reducing the time from concept to actionable insights.
+- Accessibility and Speed of Data Analysis: Ensuring key data is easily accessible and can be quickly analyzed to support agile decision-making.
+- Improved Use of Machine Learning: Effective application of machine learning techniques to uncover patterns and predict future market trends and consumer behaviors.
+
 	
 # Produce Project Plan
-### Initial Assessment of Tools (Technology) and Techniques (Analytics)
+- Initial Assessment of Tools (Technology) and Techniques (Analytics)
+### Tools (Technology)
+- SQL Databases: For structured data storage, enabling efficient data retrieval and management.
+- Python: for data manipulation, analysis, and machine learning with libraries such as pandas, NumPy, and scikit-learn.
+- Data Visualization Tools: Tableau for creating interactive dashboards to present insights.
+- Machine Learning Platforms: TensorFlow or PyTorch for developing predictive models to forecast market trends and consumer behavior.
+### Techniques (Analytics)
+- Descriptive Analytics: Summarize historical data to identify sales trends and patterns in customer behavior.
+- Predictive Analytics: Use statistical models and machine learning to forecast future trends based on historical data.
+- Data Mining: Employ clustering for customer segmentation and association analysis to uncover purchase patterns.
+
 ### Data Toolkit Items
-- Based on the Data Periodic Table but not limited to just dashboards, reports, data feeds and APIs, data science, ML, and AI, and alerts and notifications.
+- Dashboards, Reports, Data Feeds, Data Science & ML.
+
 ### Project Plan
-- To keep the project on schedule, we will use the Scrum Agile project management framework. We plan to have 4 weeks to complete Sprint 01's tasks and 2 weeks for Sprint 02.
-- Work will be documented on a Trello board. Links to the Trello board.
+- Sprint 0: Business Problem Definition, Setting up a collaborative environment (shared folders, notebooks, files, repo, etc.), Finding the datasets.
+- Sprint 1: Descriptive Analytics Dashboard, ETL pipeline, ERD, Data Dictionary, SQL warehouse, Data Governance, Data Lineage.
+- Sprint 2: Automate ETL pipeline, Diagnostic Analytics Dashboard, Predictive Model, A/B Test, Data Manifesto, 
