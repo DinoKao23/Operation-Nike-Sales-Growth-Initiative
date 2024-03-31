@@ -13,7 +13,6 @@ Key Result:
 - Finding the characteristics of Nike’s products.
 - Create a descriptive dashboard.
 - Building a predictive model to forecast product sales.
-
 # Assess Situation
 ### Inventory of Resources
 Personnel: 
@@ -41,7 +40,6 @@ Risks:
 Contingencies:
 - Data Source Diversification: To mitigate the risk of data bias, the project will seek to diversify its data sources, incorporating a variety of public datasets that offer different perspectives on consumer behavior and market trends relevant to Nike.
 - Model Validation Strategies: To counteract the risk of model overfitting, the project will employ rigorous model validation techniques. This includes using cross-validation and splitting the data into training and testing sets to ensure models are generalizable and robust against unseen data.
-
 Terminology
 - Market Trends: The general direction in which a market or industry is moving, influenced by economic, technological, and societal factors.
 - Customer Behavior Trends: Patterns that indicate how consumers select, purchase, use, and dispose of products and services over time.
@@ -61,7 +59,6 @@ Benefits:
 - Risk Mitigation: Using predictive models for demand forecasting reduces the risk of stockouts or overstock, saving costs and improving market entry strategies. Understanding market trends and customer behavior helps mitigate risks associated with new product launches.
 - Strategic Insights: Data analysis informs strategic decisions, directing focus toward profitable markets, products, or customer segments with untapped potential.
 - Compliance: Adhering to data privacy and ethical data use standards supports compliance and safeguards against reputational risks, indirectly benefiting the project.
-
 # Determine Data Mining Goals
 ### Data Mining Goals aka Enabling Activities aka Data Activities.
 Identify ALL relevant data activities from the Data Periodic Table
@@ -95,23 +92,18 @@ Identify ALL relevant data activities from the Data Periodic Table
 - Reduced Modeling Development Time: Efficiency in developing and deploying models, reducing the time from concept to actionable insights.
 - Accessibility and Speed of Data Analysis: Ensuring key data is easily accessible and can be quickly analyzed to support agile decision-making.
 - Improved Use of Machine Learning: Effective application of machine learning techniques to uncover patterns and predict future market trends and consumer behaviors.
-
-	
 # Produce Project Plan
-- Initial Assessment of Tools (Technology) and Techniques (Analytics)
 ### Tools (Technology)
 - SQL Databases: For structured data storage, enabling efficient data retrieval and management.
-- Python: for data manipulation, analysis, and machine learning with libraries such as pandas, NumPy, and scikit-learn.
+- Python: for data manipulation, analysis, and machine learning with libraries such as pandas, NumPy, and sci-kit-learn.
 - Data Visualization Tools: Tableau for creating interactive dashboards to present insights.
 - Machine Learning Platforms: TensorFlow or PyTorch for developing predictive models to forecast market trends and consumer behavior.
 ### Techniques (Analytics)
 - Descriptive Analytics: Summarize historical data to identify sales trends and patterns in customer behavior.
 - Predictive Analytics: Use statistical models and machine learning to forecast future trends based on historical data.
 - Data Mining: Employ clustering for customer segmentation and association analysis to uncover purchase patterns.
-
 ### Data Toolkit Items
 - Dashboards, Reports, Data Feeds, Data Science & ML.
-
 ### Project Plan
 - Sprint 0: Business Problem Definition, Setting up a collaborative environment (shared folders, notebooks, files, repo, etc.), Finding the datasets.
 - Sprint 1: Descriptive Analytics Dashboard, ETL pipeline, ERD, Data Dictionary, SQL warehouse, Data Governance, Data Lineage.
