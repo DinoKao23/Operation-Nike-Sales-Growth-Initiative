@@ -6,7 +6,7 @@ DEPARTMENT, CATEGORY ,SUBCATEGORY, SKU, SKU_VARIANT, PRODUCT_NAME, PRODUCT_ID, T
 ### Data Type: 
 Contains strings, int, decimal, and date/time.
 ### Description: 
-Use the Nike UK product dataset to analyze sportswear product pricing and assortment. The dataset contians 229k skus.
+Use the Nike US product dataset to analyze sportswear product pricing and assortment. The dataset contians 229k skus.
 ## Metadata
 ### Source: 
 info@barkingdata.com
