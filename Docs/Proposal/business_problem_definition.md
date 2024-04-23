@@ -2,7 +2,7 @@
 ### Background
 A significant challenge for Nike could be optimizing sales performance. This problem involves identifying patterns and trends within sales data to uncover insights that can drive strategic decisions to boost sales efficiency and effectiveness. By focusing on sales data, we aim to pinpoint opportunities for increasing revenue, improving product positioning, and tailoring marketing strategies to match consumer preferences more closely.
 ### Business Activity Category
-Increased Revenue: A36-Marketing Performace management
+Increased Revenue: A36-Marketing Performance management
 ### OKR (Objectives and Key Results)
 Objective: Increase Nike’s Sales
 Key Result: 
