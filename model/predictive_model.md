@@ -29,12 +29,16 @@ There are two metrics we use to measure a Linear Regression model.
 
 has_price.pkl
 MSE: 101271.46
+
 R²: 0.57
+
 We can see the MSE error is high when predicting the model. This means that the model isn't doing great when predicting the price. There might be product price range issues, and they aren't a great fit to use ML to predict. The model also has a great explanation when including revenue. In other words, including the product price in the revenue helps to explain why we get higher revenue with higher prices(which is obvious).
 
 no_price.pkl
 MSE: 228722.63
+
 R²: 0.03
+
 The model without PRICE_RETAIL has the worst performance compared to the one with PRICE_RETAIL. While the MSE is two times higher, its R² is only 0.03. In other words, it has a wider range when predicting a model and can't explain which variable influence the final price.
 
 # How to use
