@@ -1,0 +1,1 @@
+The Nike_transaction_sample is the collected sample from the original data source. The full data is too large to upload in GitHub repository even after compressed. Please see original date through public link: https://www.kaggle.com/datasets/vipin20/transaction-data 
