@@ -1,5 +1,7 @@
 # Nike Sales Performance and Customer Engagement Dashboard
 
+Tableau Public Link: https://public.tableau.com/views/diagnostic_dashboard/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
 ## Purpose
 The dashboard is designed to provide a comprehensive overview of sales performance for Nike's range of products. It aims to highlight bestsellers, analyze customer registration impact on sales, and track seasonal sales trends. This insight allows for targeted marketing strategies and inventory management to improve overall sales.
 
