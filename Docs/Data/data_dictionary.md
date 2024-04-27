@@ -6,7 +6,27 @@ DEPARTMENT, CATEGORY ,SUBCATEGORY, SKU, SKU_VARIANT, PRODUCT_NAME, PRODUCT_ID, T
 ### Data Type: 
 Contains strings, int, decimal, and date/time.
 ### Description: 
-Use the Nike US product dataset to analyze sportswear product pricing and assortment. The dataset contians 229k skus.
+| Fields | Description  |
+| :---:   | :---: |
+| DEPARTMENT | genders & categories, men, women, children  |
+| CATEGORY | product category   |
+| SUBCATEGORY | product subcategory   |
+| SKU | stock keeping unit of products   |
+| SKU_VARIANT | stock keeping unit variant of products    |
+| PRODUCT_NAME | products' names   |
+| PRODUCT_ID | unique ID for each product   |
+| TITLE | title of products   |
+| PRODUCT_TYPE | type of products   |
+| PRODUCT_URL | Website links of products   |
+| PRODUCT_SIZE | size of products   |
+| LABEL | labels of the availability of products  |
+| IS_BESTSELLER | review of products   |
+| COLOR | color of products   |
+| BRAND | brand of products (all Nike)   |
+| AVAILABILITY | availability of products   |
+| CURRENCY | currency listed online when viewing   |
+| PRICE_CURRENT | current price of products   |
+| PRICE_RETAIL |  retail price of products  |
 ## Metadata
 ### Source: 
 info@barkingdata.com
@@ -25,7 +45,16 @@ UserId, TransactionId, TransactionTime, ItemCode, ItemDescription, NumberOfItemP
 ### Data Type: 
 Contains strings, int, decimal, and date/time.
 ### Description: 
-UserId -It is a unique ID for all User Id. TransactionId -It contains unique Transactions ID. TransactionTime -It contains Transaction Time. ItemCode -It contains item code that item will be purchased. ItemDescription -It contains Item description. NumberOfItemPurchased -It contains total number of items Purchased. CostPerltem -Cost per item Purchased. Country -Country where item purchased
+| Fields | Description  |
+| :---:   | :---: |
+| UserId | It is a unique ID for all User Id  |
+| TransactionId | It contains unique Transactions ID.   |
+| TransactionTime | It contains Transaction Time.   |
+| ItemCode | It contains item code that item will be purchased.  |
+| ItemDescription | It contains Item description.    |
+| NumberOfItemPurchased | It contains total number of items Purchased.   |
+| CostPerltem | Cost per item Purchased.   |
+| Country | Country where item purchased   |
 ## Metadata
 ### Source: 
 Non-listed
