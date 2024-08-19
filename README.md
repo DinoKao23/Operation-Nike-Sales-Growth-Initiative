@@ -4,10 +4,17 @@ We are helping Nike achieve sales growth through evidence-backed proposals that 
 
 
 ### ETL Pipeline
-We upload 1 million records from local CSV file to our database for analyst to access these files. Besides that, we build an automate process to help the data upload to the database every 4 to 6 hours to help analyst to access recent data. This time can be changed based on customer need.
+We upload 1 million records from local CSV file to our database for analyst to access these files. Besides that, we build an automate process to help the data upload to the OLTP database every 4 to 6 hours to organized and maintained. This time can be changed based on customer need.
 ![image](https://github.com/user-attachments/assets/68560dc4-9f52-4459-ad24-8127d8c766b1)
 
+After we upload the file to the database, we also let analyst download the file from the database. 
+![image](https://github.com/user-attachments/assets/b878ea4f-5d27-4278-a478-2b1adc85cea3)
 
+
+### Insight
+![image](https://github.com/user-attachments/assets/291632b4-89aa-4daa-8880-3cd4eff1e34f)
+
+![image](https://github.com/user-attachments/assets/a52be99a-7b72-4d02-889f-d7a962796c50)
 
 
 ### Purpose of Each Directory
