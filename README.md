@@ -2,6 +2,9 @@
 
 We are helping Nike achieve sales growth through evidence-backed proposals that we can make based on our insights that we gather from various datasets. We are trying to solve the issue of Nike's dwindling sales, and we plan to solve that problem by finding ways to make them more attractive than their competitors again. This project is inspired by the job post posted in our repository in that the responsibilties of the role are consistent with our skills and align with our goals as well. 
 
+![image](https://github.com/user-attachments/assets/68560dc4-9f52-4459-ad24-8127d8c766b1)
+
+
 ### Purpose of Each Directory
 
 ## 1. `code/`
@@ -23,85 +26,6 @@ In this directory, you'll find presentation materials related to the project. Th
 The `tests/` directory contains automated tests for our project's code. This can include unit tests, integration tests, and any other type of automated tests used to ensure the code works as expected. Testing is a critical part of software development, helping to catch bugs and ensure reliability.
 
 
-### Skills
-
-## Business/Problem Solving
-
-1. **Strategic Thinking**: Ability to develop strategies based on market trends, consumer behavior, and sales data to identify opportunities for growth.
-2. **Problem-Solving**: Skills in identifying problems that may be hindering sales and developing practical solutions.
-3. **Market Understanding**: Knowledge of the athletic wear and footwear market, including competitors, trends, and consumer preferences.
-4. **Product Knowledge**: Deep understanding of Nike's products to identify unique selling propositions and areas for improvement.
-5. **Customer Insights**: Ability to gather and interpret customer feedback and behavior to drive sales strategies.
-6. **Financial Acumen**: Understanding of financial metrics and how to impact them positively through sales strategies and cost management.
-7. **Project Management**: Skills in managing projects from conception through execution to ensure timely and successful outcomes.
-
-## Analytics
-
-1. **Data Analysis**: Ability to analyze sales data, customer data, and market trends to extract actionable insights.
-2. **Statistical Analysis**: Using statistical techniques to test hypotheses and validate assumptions about sales strategies and market behaviors.
-3. **Predictive Modeling**: Developing models to forecast sales trends and the impact of various strategies or market conditions.
-4. **Consumer Segmentation**: Segmenting customers into groups based on behavior, preferences, and demographics to tailor marketing and sales strategies.
-5. **Performance Metrics**: Establishing and monitoring key performance indicators (KPIs) related to sales, customer engagement, and marketing effectiveness.
-6. **A/B Testing**: Designing and implementing A/B tests to optimize marketing campaigns, product placements, and website layouts for increased sales.
-
-## Technology
-
-1. **Data Management Tools**: Proficiency with databases and data management tools (e.g., SQL, Excel, Google Sheets) to organize and manipulate large datasets.
-2. **Analytics Software**: Experience with analytics platforms (e.g., Google Analytics, Adobe Analytics) to track website and campaign performance.
-3. **Business Intelligence (BI) Tools**: Skills in using BI tools (e.g., Tableau, Power BI) for data visualization and reporting.
-4. **CRM Software**: Knowledge of Customer Relationship Management (CRM) systems (e.g., Salesforce) to manage customer data and insights.
-5. **Digital Marketing Tools**: Familiarity with digital marketing platforms (e.g., Google Ads, Facebook Ads Manager) to execute and analyze marketing campaigns.
-6. **Machine Learning/AI**: Understanding of basic machine learning algorithms and AI tools to enhance predictive analytics and customer personalization.
-7. **E-commerce Platforms**: Knowledge of e-commerce systems and how to leverage them for online sales optimization.
-
-### Analytics Maturity Scale
-
-To help Nike increase its sales through insights-driven strategies, you can structure your approach into distinct phases, each with specific objectives and deliverables. This structured approach ensures that each phase builds upon the insights and achievements of the previous one, leading to a comprehensive strategy that leverages data analytics effectively. Here's how you might outline these phases and their associated deliverables:
-
-### Phase 1: Aspire
-
-**Objective**: Establish a foundational understanding of the current state of analytics and data utilization within Nike, and set a vision for how analytics can drive sales growth.
-
-**Deliverables**:
-- **Current State Assessment**: A report detailing current analytics capabilities, tools, data sources, and any existing gaps.
-- **Vision Statement**: A document outlining how analytics will be used to drive sales growth, including high-level goals.
-- **Roadmap**: An initial roadmap for developing analytics capabilities, including key milestones and timelines.
-
-### Phase 2: Mature
-
-**Objective**: Develop structured analytical processes, invest in foundational technologies and skills, and start integrating analytics into decision-making processes.
-
-**Deliverables**:
-- **Data Governance Framework**: Guidelines and policies for data management, quality, and privacy.
-- **Technology and Skills Inventory**: An assessment of needed technologies and skills, followed by a plan for acquisition and development.
-- **Standardized Analytical Processes**: Documentation of standardized processes for data collection, analysis, and reporting.
-
-### Phase 3: Industrialize
-
-**Objective**: Scale analytics capabilities across the organization, focusing on efficiency, automation, and fostering a data-driven culture.
-
-**Deliverables**:
-- **Automated Data Pipelines**: Implementation of automated processes for data collection, cleaning, and preparation.
-- **Scalable Analytics Solutions**: Deployment of analytics platforms and tools that can be used across different teams and projects.
-- **Data Literacy Program**: Development and rollout of a data literacy program for employees to enhance their understanding and use of data analytics.
-
-### Phase 4: Realize
-
-**Objective**: Optimize and refine analytics processes to maximize the impact on sales, leveraging advanced analytics and predictive modeling.
-
-**Deliverables**:
-- **Advanced Analytics Models**: Development and implementation of predictive models for sales forecasting, customer segmentation, and product performance.
-- **Impact Analysis Report**: A comprehensive report analyzing the impact of analytics initiatives on sales growth, with insights and recommendations for further optimization.
-- **Optimization Plan**: A plan for ongoing refinement of analytics processes and models based on feedback and performance analysis.
-
-### Phase 5: Differentiate
-
-**Objective**: Use analytics as a key differentiator in the market by innovating through data, personalizing customer experiences, and creating new business models.
-
-**Deliverables**:
-- **Innovation Pipeline**: A pipeline of data-driven innovation projects, including new products, services, or business models.
-- **Personalization Strategy**: A strategy for leveraging analytics to personalize customer experiences across touchpoints.
-- **Competitive Advantage Report**: An analysis of how analytics-driven initiatives have created a competitive advantage for Nike, including customer satisfaction, market share growth, and sales performance.
 
 
 
