@@ -2,6 +2,9 @@
 
 We are helping Nike achieve sales growth through evidence-backed proposals that we can make based on our insights that we gather from various datasets. We are trying to solve the issue of Nike's dwindling sales, and we plan to solve that problem by finding ways to make them more attractive than their competitors again. This project is inspired by the job post posted in our repository in that the responsibilties of the role are consistent with our skills and align with our goals as well. 
 
+
+### ETL Pipeline
+We upload 
 ![image](https://github.com/user-attachments/assets/68560dc4-9f52-4459-ad24-8127d8c766b1)
 
 
