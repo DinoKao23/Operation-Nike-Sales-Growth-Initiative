@@ -16,6 +16,8 @@ After we upload the file to the database, we also let analyst download the file 
 
 ![image](https://github.com/user-attachments/assets/a52be99a-7b72-4d02-889f-d7a962796c50)
 
+![image](https://github.com/user-attachments/assets/024ace5e-7d6a-4fc6-ac07-c961fb2ef7a9)
+
 
 ### Purpose of Each Directory
 
